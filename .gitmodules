@@ -137,60 +137,80 @@
 [submodule "DscResources/SharePointDsc"]
 	path = DscResources/SharePointDsc
 	url = https://github.com/PowerShell/SharePointDsc
+	branch = dev
 [submodule "DscResources/SystemLocaleDsc"]
 	path = DscResources/SystemLocaleDsc
 	url = https://github.com/PowerShell/SystemLocaleDsc
+	branch = dev
 [submodule "DscResources/OfficeOnlineServerDsc"]
 	path = DscResources/OfficeOnlineServerDsc
 	url = https://github.com/PowerShell/OfficeOnlineServerDsc
+	branch = dev
 [submodule "DscResources/PSDscResources"]
 	path = DscResources/PSDscResources
 	url = https://github.com/PowerShell/PSDscResources
+	branch = dev
 [submodule "DscResources/AuditPolicyDsc"]
 	path = DscResources/AuditPolicyDsc
 	url = https://github.com/PowerShell/AuditPolicyDsc
+	branch = dev
 [submodule "DscResources/SecurityPolicyDsc"]
 	path = DscResources/SecurityPolicyDsc
 	url = https://github.com/PowerShell/SecurityPolicyDsc
+	branch = dev
 [submodule "DscResources/SqlServerDsc"]
 	path = DscResources/SqlServerDsc
 	url = https://github.com/PowerShell/SqlServerDsc
+	branch = dev
 [submodule "DscResources/StorageDsc"]
 	path = DscResources/StorageDsc
 	url = https://github.com/PowerShell/StorageDsc
+	branch = dev
 [submodule "DscResources/FileContentDsc"]
 	path = DscResources/FileContentDsc
 	url = https://github.com/PlagueHO/FileContentDsc
+	branch = dev
 [submodule "DscResources/FSRMDsc"]
 	path = DscResources/FSRMDsc
 	url = https://github.com/PlagueHO/FSRMDsc
+	branch = dev
 [submodule "DscResources/iSCSIDsc"]
 	path = DscResources/iSCSIDsc
 	url = https://github.com/PlagueHO/iSCSIDsc
+	branch = dev
 [submodule "DscResources/WSManDsc"]
 	path = DscResources/WSManDsc
 	url = https://github.com/PlagueHO/WSManDsc
+	branch = dev
 [submodule "DscResources/DFSDsc"]
 	path = DscResources/DFSDsc
 	url = https://github.com/PowerShell/DFSDsc
+	branch = dev
 [submodule "DscResources/CertificateDsc"]
 	path = DscResources/CertificateDsc
 	url = https://github.com/PowerShell/CertificateDsc
+	branch = dev
 [submodule "DscResources/ComputerManagementDsc"]
 	path = DscResources/ComputerManagementDsc
 	url = https://github.com/PowerShell/ComputerManagementDsc
+	branch = dev
 [submodule "DscResources/ActiveDirectoryCSDsc"]
 	path = DscResources/ActiveDirectoryCSDsc
 	url = https://github.com/PowerShell/ActiveDirectoryCSDsc
+	branch = dev
 [submodule "xDscResources/xDisk"]
 	path = xDscResources/xDisk
 	url = https://github.com/PowerShell/xDisk
+	branch = dev
 [submodule "DscResources/NetworkingDsc"]
 	path = DscResources/NetworkingDsc
 	url = https://github.com/PowerShell/NetworkingDsc
+	branch = dev
 [submodule "DscResources/WmiNamespaceSecurityDsc"]
 	path = DscResources/WmiNamespaceSecurityDsc
 	url = https://github.com/PowerShell/WmiNamespaceSecurityDsc
+	branch = dev
 [submodule "DscResources/ActiveDirectoryDsc"]
 	path = DscResources/ActiveDirectoryDsc
 	url = https://github.com/PowerShell/ActiveDirectoryDsc
+	branch = dev

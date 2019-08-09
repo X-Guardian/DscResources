@@ -1,6 +1,7 @@
 [submodule "xDscResources/xAzure"]
 	path = xDscResources/xAzure
 	url = https://github.com/PowerShell/xAzure
+	branch = dev
 [submodule "xDscResources/xAzurePack"]
 	path = xDscResources/xAzurePack
 	url = https://github.com/PowerShell/xAzurePack
